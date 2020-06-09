@@ -20,7 +20,6 @@ namespace Cryptage_Spartiate
         private void frmSpartiates_Load(object sender, EventArgs e)
         {
             this.CenterToScreen();
-            MessageBox.Show(decalage.ToString());
         }
 
         private void btnChiffrer_Click(object sender, EventArgs e)
@@ -43,6 +42,18 @@ namespace Cryptage_Spartiate
                 
             }
             txtMessageChiffre.Text = messageChiffrer;
+        }
+
+        private void btnDechiffrer_Click(object sender, EventArgs e)
+        {
+            char lettre;
+            string messageChiffrer = "";
+            for (int i = txtMessageChiffre.TextLength - 1; i >= 0; i--)
+            {
+                lettre = txtMessageChiffre.Text[i];
+                messageChiffrer += lettre;
+            }
+            txtMessageClair.Text = messageChiffrer;
         }
     }
 }

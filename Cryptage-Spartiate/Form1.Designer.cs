@@ -33,7 +33,7 @@
             this.txtMessageClair = new System.Windows.Forms.TextBox();
             this.txtMessageChiffre = new System.Windows.Forms.TextBox();
             this.btnChiffrer = new System.Windows.Forms.Button();
-            this.btnDéchiffrer = new System.Windows.Forms.Button();
+            this.btnDechiffrer = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblMessageClair
@@ -89,22 +89,23 @@
             this.btnChiffrer.UseVisualStyleBackColor = true;
             this.btnChiffrer.Click += new System.EventHandler(this.btnChiffrer_Click);
             // 
-            // btnDéchiffrer
+            // btnDechiffrer
             // 
-            this.btnDéchiffrer.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btnDéchiffrer.Location = new System.Drawing.Point(485, 250);
-            this.btnDéchiffrer.Name = "btnDéchiffrer";
-            this.btnDéchiffrer.Size = new System.Drawing.Size(115, 35);
-            this.btnDéchiffrer.TabIndex = 5;
-            this.btnDéchiffrer.Text = "Déchiffrer";
-            this.btnDéchiffrer.UseVisualStyleBackColor = true;
+            this.btnDechiffrer.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btnDechiffrer.Location = new System.Drawing.Point(485, 250);
+            this.btnDechiffrer.Name = "btnDechiffrer";
+            this.btnDechiffrer.Size = new System.Drawing.Size(115, 35);
+            this.btnDechiffrer.TabIndex = 5;
+            this.btnDechiffrer.Text = "Déchiffrer";
+            this.btnDechiffrer.UseVisualStyleBackColor = true;
+            this.btnDechiffrer.Click += new System.EventHandler(this.btnDechiffrer_Click);
             // 
             // frmSpartiates
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(677, 535);
-            this.Controls.Add(this.btnDéchiffrer);
+            this.Controls.Add(this.btnDechiffrer);
             this.Controls.Add(this.btnChiffrer);
             this.Controls.Add(this.txtMessageChiffre);
             this.Controls.Add(this.txtMessageClair);
@@ -125,7 +126,7 @@
         private System.Windows.Forms.TextBox txtMessageClair;
         private System.Windows.Forms.TextBox txtMessageChiffre;
         private System.Windows.Forms.Button btnChiffrer;
-        private System.Windows.Forms.Button btnDéchiffrer;
+        private System.Windows.Forms.Button btnDechiffrer;
     }
 }
 

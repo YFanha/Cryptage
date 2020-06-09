@@ -8,3 +8,13 @@ C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.csproj.GenerateRes
 C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.csproj.CoreCompileInputs.cache
 C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.exe
 C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.pdb
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\bin\Debug\Cryptage-Spartiate.exe.config
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\bin\Debug\Cryptage-Spartiate.exe
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\bin\Debug\Cryptage-Spartiate.pdb
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.csprojAssemblyReference.cache
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\obj\Debug\Cryptage_Spartiate.frmSpartiates.resources
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\obj\Debug\Cryptage_Spartiate.Properties.Resources.resources
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.csproj.GenerateResource.cache
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.csproj.CoreCompileInputs.cache
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.exe
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.pdb
