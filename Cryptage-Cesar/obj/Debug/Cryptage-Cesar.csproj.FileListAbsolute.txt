@@ -1,0 +1,10 @@
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\bin\Debug\Cryptage-Cesar.exe.config
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\bin\Debug\Cryptage-Cesar.exe
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\bin\Debug\Cryptage-Cesar.pdb
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\obj\Debug\Cryptage-Cesar.csprojAssemblyReference.cache
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\obj\Debug\Cryptage_Cesar.Form1.resources
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\obj\Debug\Cryptage_Cesar.Properties.Resources.resources
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\obj\Debug\Cryptage-Cesar.csproj.GenerateResource.cache
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\obj\Debug\Cryptage-Cesar.csproj.CoreCompileInputs.cache
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\obj\Debug\Cryptage-Cesar.exe
+C:\Users\yann7\Documents\GitHub\Cryptage\Cryptage-Cesar\obj\Debug\Cryptage-Cesar.pdb
