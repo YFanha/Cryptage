@@ -1,0 +1,10 @@
+C:\Sandbox\CS\Cryptage-Spartiate\bin\Debug\Cryptage-Spartiate.exe.config
+C:\Sandbox\CS\Cryptage-Spartiate\bin\Debug\Cryptage-Spartiate.exe
+C:\Sandbox\CS\Cryptage-Spartiate\bin\Debug\Cryptage-Spartiate.pdb
+C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.csprojAssemblyReference.cache
+C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage_Spartiate.frmSpartiates.resources
+C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage_Spartiate.Properties.Resources.resources
+C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.csproj.GenerateResource.cache
+C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.csproj.CoreCompileInputs.cache
+C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.exe
+C:\Sandbox\CS\Cryptage-Spartiate\obj\Debug\Cryptage-Spartiate.pdb
