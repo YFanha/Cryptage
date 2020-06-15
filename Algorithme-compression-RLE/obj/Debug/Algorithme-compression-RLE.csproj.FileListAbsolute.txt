@@ -1,0 +1,7 @@
+C:\Users\yann7\Documents\GitHub\Cryptage\Algorithme-compression-RLE\bin\Debug\Algorithme-compression-RLE.exe.config
+C:\Users\yann7\Documents\GitHub\Cryptage\Algorithme-compression-RLE\bin\Debug\Algorithme-compression-RLE.exe
+C:\Users\yann7\Documents\GitHub\Cryptage\Algorithme-compression-RLE\bin\Debug\Algorithme-compression-RLE.pdb
+C:\Users\yann7\Documents\GitHub\Cryptage\Algorithme-compression-RLE\obj\Debug\Algorithme-compression-RLE.csprojAssemblyReference.cache
+C:\Users\yann7\Documents\GitHub\Cryptage\Algorithme-compression-RLE\obj\Debug\Algorithme-compression-RLE.csproj.CoreCompileInputs.cache
+C:\Users\yann7\Documents\GitHub\Cryptage\Algorithme-compression-RLE\obj\Debug\Algorithme-compression-RLE.exe
+C:\Users\yann7\Documents\GitHub\Cryptage\Algorithme-compression-RLE\obj\Debug\Algorithme-compression-RLE.pdb
