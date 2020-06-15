@@ -21,14 +21,17 @@ namespace Algorithme_compression_RLE
 
             for (int i = 0; i < message.Length; i++)
             {
-                nombreChar++;
-                for (int q = 0; q < ; q++)
+                for (int q = 0; q < (message.Length - 1) - i; q++)
                 {
-                    if (message[i] == message[i + 1]) nombreChar++;
+                    if (message[i] == message[q]) nombreChar++;
                 }
                 messageCompresser += nombreChar.ToString() + message[i];
+
+                nombreChar = 0;
             }
             Console.WriteLine("\n" + messageCompresser);
+
+            Console.ReadKey();
         }
     }
 }
