@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,27 +15,26 @@ namespace Algorithme_compression_RLE
             string message = "";
             string messageCompresser = "";
             float tauxCompression;
-            int nbr = 0;
+            int nbr = 1;
 
             Console.WriteLine("Tapez votre message : ");
 
-            message = Console.ReadLine();
-
-            for (int i = 0; i < message.Length; i++)
+            message = Console.ReadLine() + " ";
+            
+            for(int i=0; i<message.Length-1; i++)
             {
-                for (int q = 0; q < message.Length  - i; q++)
+                if(message[i] == message[i + 1])
                 {
-                    if (message[i] == message[q]) {
-                        nombreChar++;
-                        nbr++;
-                    }
+                    nbr++;
                 }
-                
-                messageCompresser += nombreChar.ToString() + message[i];
-                i += nbr;
-                nbr = 0;
-                nombreChar = 0;
+                else
+                {
+                    messageCompresser += message[i];
+                    messageCompresser += nbr;
+                    nbr = 1;
+                }
             }
+            
             Console.WriteLine("\n" + messageCompresser);
 
             Console.ReadKey();
